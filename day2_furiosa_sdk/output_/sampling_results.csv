@@ -1,0 +1,6 @@
+﻿condition,temperature,top_p,prompt,answer
+기준,0.0,1.0,RNGD NPU가 LLM 추론에 쓰이는 이유를 설명해줘.,"RNGD NPU는 **Rapid Neural Graph Data Processing Unit**의 약자로, 주로 **그래프 데이터를 처리하는 데 최적화된 하드웨어**입니다. 이는 **LLM(대규모 언어 모델) 추론**에 사용되는 이유는 다음과 같은 이유 때문입니다:
+
+---"
+프롬프트 변경,0.0,1.0,초보자를 위해 RNGD NPU의 역할을 두 문장으로 설명해줘.,RNGD NPU는 게임에서 난수 생성을 담당하여 공정한 랜덤 결과를 보장하는 역할을 합니다. 이는 플레이어가 예측할 수 없는 공정한 게임 경험을 제공합니다.
+샘플링 변경,0.8,0.9,RNGD NPU가 LLM 추론에 쓰이는 이유를 설명해줘.,"RNGD NPU는 **Rapid Neural Graph Dynamics NPU**의 약자로, 특정 업체(예: Huawei)에서 개발한 **신경망 가속기**입니다. 이는 **대규모 언어 모델(LLM)**의 **추론(예측)** 과정을 가속화"
